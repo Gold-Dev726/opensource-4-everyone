@@ -1,5 +1,5 @@
 # Open-Source-4-Everyone
-
+This guide is very useful for developers!
 <a href="https://github.com/chryz-hub/opensource-4-everyone"><img src="https://img.shields.io/badge/PRs-welcome-green"></a> 
 <a href="https://github.com/chryz-hub/opensource-4-everyone"><img src="https://img.shields.io/badge/Contributions-welcome-green"></a> 
 <a href="https://github.com/chryz-hub/opensource-4-everyone/graphs/contributors"><img src="https://img.shields.io/github/contributors/chryz-Hub/opensource-4-everyone?style=plastic"></a>

@@ -6,7 +6,7 @@
 <a href="https://github.com/chryz-hub/opensource-4-everyone/stargazers"><img src="https://img.shields.io/github/stars/chryz-Hub/opensource-4-everyone?style=plastic"></a>
 
 #### This repo is for everything open source!
-
+This is very useful guide for new users!
 **Feel free to create an [issue](https://github.com/chryz-hub/opensource-4-everyone/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CONTRIBUTING.md)
 first and our [Code of Conduct](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a Pull Request, we appreciate it!
 In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/issue!**
